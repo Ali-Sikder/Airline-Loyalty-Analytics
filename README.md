@@ -1,12 +1,30 @@
-## 🚀 Project Overview
-This project analyses how airline customers behave in a loyalty program.
+## 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
 
-I used Python, SQL, and Power BI to clean real customer and flight data, build a structured database, and create interactive dashboards that reveal insights about loyalty, customer value, and churn.
+This project presents a complete end-to-end data analytics workflow designed to replicate a real business intelligence environment. Using a combination of Python, SQL, and Power BI, I transformed raw airline loyalty data into a structured analytics model and delivered a fully interactive dashboard with meaningful business insights.
 
-This portfolio gives a simple explanation of what I did in each stage.
-Click the links under each section to explore the actual files in the project.
+The process began by importing and cleaning the raw customer, flight, and calendar datasets in Python. I handled missing values, standardized formats, created new engineered features (such as customer status, membership duration, salary groups, CLV segments, and derived date fields), and prepared the data for analysis. Cleaned datasets were then loaded into a SQLite relational database, ensuring stronger data integrity, improved performance, and a scalable structure suitable for analytical querying.
 
----
+With SQL, I explored the data, validated relationships, and confirmed the accuracy of flight activity, customer profiles, and loyalty behaviors before integrating the database into Power BI. Inside Power BI, I built a star-schema model, created analytical measures using DAX, established table relationships, and performed additional modeling and transformations to support more advanced reporting.
+
+Finally, I designed a multi-page interactive dashboard focusing on:
+
+Executive performance KPIs
+
+Customer segmentation (demographic, behavioral, value-based)
+
+Churn and retention insights
+
+Loyalty engagement and points behavior
+
+Membership duration and CLV patterns
+
+This project showcases my ability to work across the full analytics stack—data cleaning, feature engineering, database modeling, SQL querying, DAX development, and dashboard design—to produce insights that support strategic business decisions.
+
+It demonstrates practical experience with modern data tools and mirrors the expectations of real-world data analyst and BI analyst roles.
+
+
+
+
 
 # 🧹 1. Data Cleaning & Preparation (Python)
 
@@ -27,7 +45,9 @@ Exported clean datasets for next steps
 
 📁 Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`
 
----
+
+
+
 
 # 🗄️ 2. Database Creation (SQL / SQLite)
 
@@ -44,7 +64,9 @@ This allowed me to use SQL for exploration, validation, and structured querying 
 📁 SQL scripts: `/sql/airline_loyalty_analysis.sql`  
 📁 Database file: `airline_loyalty.db`
 
----
+
+
+
 
 # 📊 3. Data Modeling & DAX (Power BI)
 
@@ -56,23 +78,20 @@ Connected to the SQL database
 
 Created business measures such as:
 
-Customer Count
-
-Churn Rate
-
-Total Flights
-
-Average Flights per Customer
-
-Average CLV
-
-Points Accumulated & Redeemed
+-Customer Count
+-Churn Rate
+-Total Flights
+-Average Flights per Customer
+-Average CLV
+-Points Accumulated & Redeemed
 
 I created business calculations (DAX measures) for customer counts, churn rate, total flights, CLV averages, points behavior, and more — preparing the model for meaningful dashboards.
 
 📁 Power BI file: `/powerbi/Airline_Loyalty_Report.pbix`
 
----
+
+
+
 
 # 📈 4. Dashboard & Insights (Power BI)
 
@@ -96,7 +115,9 @@ I created business calculations (DAX measures) for customer counts, churn rate, 
 
 📁 Dashboard screenshots: `/docs/`
 
----
+
+
+
 
 # 🔍 5. What I Learned / Demonstrated
 
@@ -113,7 +134,8 @@ This project shows my ability to work across the full analytics pipeline:
 It reflects real workflows in **Data Analyst and BI Analyst roles**.
 
 
----
+
+
 
 # 🎯 6. Key Business Insights
 - High-value customers contribute significantly more to revenue.  
@@ -122,7 +144,9 @@ It reflects real workflows in **Data Analyst and BI Analyst roles**.
 - Membership duration influences customer lifetime value.  
 - Loyalty card tier strongly affects flight behavior.  
 
----
+
+
+
 
 # 🤝 7. How to Explore This Project
 Use this homepage as your guide. Each section links directly to the work:
