@@ -23,7 +23,7 @@ Created new useful fields such as Customer Status, Membership Duration, Salary G
 
 Exported clean datasets for next steps
 
-📁 Clean data: `/data/processed/`  
+📁 Raw data: Raw Data
 📁 Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`
 
 ---
