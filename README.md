@@ -59,20 +59,68 @@ These metrics formed the foundation for an interactive dashboard that visualises
 <img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
 
 
-The Flight Details dashboard provides a clear overview of how customers engage with the airline’s loyalty program, helping managers quickly understand flight activity, retention, and customer behaviour. The top section highlights key metrics such as total customers, active vs cancelled customers, average flights per customer, total points redeemed, and total flights. These KPIs allow decision-makers to monitor program performance at a glance.
+A fast, visual overview of flight performance and loyalty program activity.
 
-The dashboard then visualizes monthly patterns, including total flights and total points accumulated. These charts reveal seasonal travel trends and help the airline identify peak months, forecast demand, and plan staffing or promotional activities more effectively. Additional visuals compare flight behaviour across customer groups—such as by loyalty card tier, salary group, and customer status—making it easy to identify which segments fly more frequently or redeem more rewards. This supports personalised marketing, loyalty strategy improvements, and targeted incentives.
+### What This Dashboard Shows
 
-Together, these insights help managers strengthen customer retention, refine loyalty benefits, optimize operational planning, and better understand which customer groups contribute most to travel activity. The dashboard transforms raw data into actionable information, enabling smarter decisions that enhance customer engagement and drive the airline’s overall performance.
+Overall customer activity: Total customers, active vs. cancelled members, churn rate
+
+Program engagement: Total flights flown, points accumulated & redeemed
+
+Monthly trends: Flights and points activity by month
+
+Customer behaviour patterns:
+--Avg flights per customer
+--Avg distance per flight
+--Flights by loyalty card type
+--Flights by income group or customer status
+
+### Why This Dashboard Matters
+
+Quickly identifies seasonal flight trends
+
+Helps spot engagement drop-offs and churn risk
+
+Shows which loyalty tiers contribute the most flights
+
+Supports decisions around:
+--Staffing & resource planning
+--Flight scheduling
+--Loyalty rewards optimization
+--Customer engagement strategies
 
 ### 🔹 Page 2 — Customer Segmentation
 <img width="1090" height="611" alt="image" src="https://github.com/user-attachments/assets/a0a6b70e-30ef-47e3-aa77-b4d6b244cad3" />
 
-The Customer Segmentation dashboard helps the airline understand who its customers are and how different groups behave within the loyalty program. By breaking the population into segments such as lifetime value, education, gender, loyalty card tier, and membership duration, managers can easily identify which customer groups generate the most value and which may require better engagement strategies. The first set of visuals highlights how Customer Lifetime Value (CLV) differs across segments and how many points each group accumulates or redeems. This allows the business to recognize its most profitable customers and ensure marketing efforts are directed toward retaining them.
+A deeper look into who the customers are and how different groups behave.
 
-The dashboard also shows patterns in education level, enrollment type, gender distribution, and churn rate across customer categories. These insights reveal behavioural differences—for example, whether certain groups are more loyal, fly more often, or are at higher risk of cancelling their membership. This is especially useful for designing targeted promotions or onboarding improvements. The membership duration analysis further helps the airline understand how value changes over time and whether newer members behave differently from long-term ones.
+### What This Dashboard Shows
 
-Overall, this dashboard supports smarter decision-making by giving a complete picture of customer diversity and behaviour. Managers can use these insights to refine loyalty tiers, personalise marketing, reduce churn, and improve customer lifetime value. It transforms segmentation from a simple demographic breakdown into actionable strategy.
+Customer demographics: Gender, education, income groups
+
+Customer value tiers: High/medium/low CLV segments
+
+Loyalty card distribution: Star, Nova, Aurora
+
+Membership behavior:
+--Average CLV by enrolment type
+--CLV by membership duration
+--Customer count by lifetime value
+--Points redemption rate by card type
+
+### Why This Dashboard Matters
+
+Reveals which segments bring the most value
+
+Highlights which groups are more loyal or at risk
+
+Helps build targeted marketing & retention campaigns
+
+Supports decisions around:
+--Loyalty benefits
+--Customer retention strategies
+--Personalized promotions
+--Program redesign & tier optimization
 
 📁 Dashboard screenshots: `/docs/`
 
