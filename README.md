@@ -55,6 +55,10 @@ These metrics formed the foundation for an interactive dashboard that visualises
 
 # 3. Dashboard & Insights (Power BI)
 
+Please find the interactive dashboard by clicling on this link
+https://app.powerbi.com/view?r=eyJrIjoiYjQxODljOGQtOTk3Ny00MzUxLWFlZjctZDNiYWZhZTZjNjkwIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9
+
+
 ### 🔹 Page 1 — Flight Operation 
 
 A fast, visual overview of flight performance and loyalty program activity.
