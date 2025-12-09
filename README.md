@@ -1,4 +1,4 @@
-## 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
+## 1. 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
 
 This project demonstrates a complete end-to-end analytics workflow designed to model a real business intelligence environment. Using **Python**, **SQL (SQLite)**, and **Power BI**, I transformed raw airline loyalty data into a structured analytical model and developed an interactive dashboard that highlights key business insights.
 
@@ -23,7 +23,7 @@ It reflects real-world expectations for **Data Analyst** and **BI Analyst** role
 
 
 
-## 🧹 Data Cleaning, SQL Database Creation & Power BI Data Modeling
+## 2. 🧹 Data Cleaning, SQL Database Creation & Power BI Data Modeling
 
 This project followed a complete end-to-end data analysis workflow across Python, SQL, and Power BI.
 
@@ -53,7 +53,7 @@ These metrics formed the foundation for an interactive dashboard that visualises
 
 
 
-# 📈 4. Dashboard & Insights (Power BI)
+# 📈 3. Dashboard & Insights (Power BI)
 
 ### 🔹 Page 1 — Flight Detail 
 <img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
@@ -85,7 +85,7 @@ Overall, this dashboard supports smarter decision-making by giving a complete pi
 
 
 
-# 🎯 6. Key Business Insights
+# 🎯 4. Key Business Insights and conclusion
 This project successfully transformed a raw airline loyalty dataset into a complete analytical ecosystem using Python, SQL, and Power BI. The two dashboards—Flight Operations and Customer Segmentation—work together to give the airline a clear, data-driven understanding of both customer behaviour and operational performance.
 
 The Flight Details dashboard highlights monthly flight activity, points accumulation patterns, customer status distribution, and overall loyalty program performance. These insights help operations and marketing teams identify peak travel periods, understand program engagement, and measure key performance indicators such as churn rate, total flights, and points redeemed.
@@ -106,7 +106,7 @@ This project demonstrates the full data pipeline—cleaning, modelling, analysis
 
 
 
-# 🤝 7. How to Explore This Project
+# 🤝 5. How to Explore This Project
 Use this homepage as your guide. Each section links directly to the work:
 
 - Cleaned Data → `/data/processed/`  
