@@ -44,7 +44,7 @@ Inside **Power BI**, I connected directly to the SQLite database and created a r
 These metrics formed the foundation for an interactive dashboard that visualises customer behaviour, loyalty performance, and business trends.
 
 ### Project Files  
-- Raw data: Raw Data
+- Raw data: [Raw Data](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/e6ecb9615d40b5ef0485b0fbffce699dd82edd76/Raw%20Data)
 - Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`  
 - SQL scripts: `/sql/airline_loyalty_analysis.sql`  
 - Database file: `airline_loyalty.db`  
