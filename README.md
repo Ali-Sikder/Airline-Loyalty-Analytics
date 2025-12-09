@@ -187,12 +187,3 @@ It reflects real-world expectations for **Data Analyst** and **BI Analyst** role
 
 
 
-
-#  5. How to Explore This Project
-Use this homepage as your guide. Each section links directly to the work:
-
-- Cleaned Data → `/data/processed/`  
-- SQL Scripts → `/sql/`  
-- Python Notebook → `/notebooks/`  
-- Power BI Dashboard → `/powerbi/`  
-- Screenshots → `/docs/`
