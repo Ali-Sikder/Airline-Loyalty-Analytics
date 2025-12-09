@@ -120,30 +120,31 @@ Overall, this dashboard supports smarter decision-making by giving a complete pi
 
 
 
-# 🔍 5. What I Learned / Demonstrated
-
-This project shows my ability to work across the full analytics pipeline:
-
-- Clean and structure messy data  
-- Build a relational database  
-- Work with SQL for analysis  
-- Create a strong data model  
-- Build DAX measures  
-- Design business-ready dashboards  
-- Communicate insights clearly  
-
-It reflects real workflows in **Data Analyst and BI Analyst roles**.
 
 
 
 
 
 # 🎯 6. Key Business Insights
-- High-value customers contribute significantly more to revenue.  
-- Some segments show higher churn risk.  
-- Points redemption varies widely across customer groups.  
-- Membership duration influences customer lifetime value.  
-- Loyalty card tier strongly affects flight behavior.  
+This project successfully transformed a raw airline loyalty dataset into a complete analytical ecosystem using Python, SQL, and Power BI. The two dashboards—Flight Operations and Customer Segmentation—work together to give the airline a clear, data-driven understanding of both customer behaviour and operational performance.
+
+The Flight Details dashboard highlights monthly flight activity, points accumulation patterns, customer status distribution, and overall loyalty program performance. These insights help operations and marketing teams identify peak travel periods, understand program engagement, and measure key performance indicators such as churn rate, total flights, and points redeemed.
+
+The Customer Segmentation dashboard adds a deeper layer of intelligence by profiling customers based on value, demographics, loyalty tiers, education, membership duration, and enrolment type. These insights reveal which customer groups generate the most revenue, which segments are at higher risk of churn, and how different types of members behave across the loyalty lifecycle.
+
+Together, both dashboards provide a 360° view of the loyalty program—combining operational metrics with customer-level insights. This empowers the airline to:
+
+Allocate resources based on real flight behaviour
+
+Personalise marketing for high-value segments
+
+Detect at-risk customers earlier
+
+Strengthen engagement strategies
+
+Improve long-term customer loyalty and revenue
+
+This project demonstrates the full data pipeline—cleaning, modelling, analysis, and visualization—resulting in a powerful decision-support tool that helps businesses improve both customer satisfaction and operational performance.
 
 
 
