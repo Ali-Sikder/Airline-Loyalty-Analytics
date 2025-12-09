@@ -70,10 +70,10 @@ Program engagement: Total flights flown, points accumulated & redeemed
 Monthly trends: Flights and points activity by month
 
 Customer behaviour patterns:
---Avg flights per customer
---Avg distance per flight
---Flights by loyalty card type
---Flights by income group or customer status
+-Avg flights per customer
+-Avg distance per flight
+-Flights by loyalty card type
+-Flights by income group or customer status
 
 ### Why This Dashboard Matters
 
