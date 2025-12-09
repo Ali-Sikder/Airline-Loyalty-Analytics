@@ -51,7 +51,7 @@ Exported clean datasets for next steps
 
 # 🗄️ 2. Database Creation (SQL / SQLite)
 
-To make the project more realistic and scalable (like real analytics teams). 
+To make the project more realistic and scalable. 
 
 I loaded all cleaned datasets into a **SQLite relational database**.  
 
