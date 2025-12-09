@@ -26,53 +26,25 @@ It demonstrates practical experience with modern data tools and mirrors the expe
 
 
 
-# 🧹 1. Data Cleaning & Preparation (Python)
+# 🧹 1. Data Cleaning, Database creation and Data Modeling & DAX 
 
-I started with raw Excel files containing customer details, flight activity, and a calendar table.
+Firstly, I started with raw Excel files containing customer details, flight activity, and a calendar table.
 In Python (Jupyter Notebook), I:
 
-Cleaned the datasets
+-Cleaned the datasets
+-Fixed missing values
+-Standardised columns
 
-Fixed missing values
+Created new useful fields such as Customer Status, Membership Duration, Salary Groups, CLV Segments and more. 
 
-Standardised columns
+Secondly, To make the project more realistic and scalable. I loaded all cleaned datasets into a **SQLite relational database**.  
 
-Created new useful fields such as Customer Status, Membership Duration, Salary Groups & CLV Segments
-
-Exported clean datasets for next steps
-
-📁 Raw data: [Raw Data](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/blob/main/Raw%20Data)
-
-📁 Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`
-
-
-
-
-
-# 🗄️ 2. Database Creation (SQL / SQLite)
-
-To make the project more realistic and scalable. 
-
-I loaded all cleaned datasets into a **SQLite relational database**.  
-
-Structured the tables as a relational model
-
-Ran SQL queries to validate the data and explore patterns
+-Structured the tables as a relational model
+-Ran SQL queries to validate the data and explore patterns
 
 This allowed me to use SQL for exploration, validation, and structured querying before connecting to Power BI.
 
-📁 SQL scripts: `/sql/airline_loyalty_analysis.sql`  
-📁 Database file: `airline_loyalty.db`
-
-
-
-
-
-# 📊 3. Data Modeling & DAX (Power BI)
-
-Inside Power BI, I:
-
-Connected to the SQL database
+Finally, Inside Power BI, I Connected to the SQL database
 
 **Built a data model (relationships between customer, flights, and calendar)**
 
@@ -83,10 +55,15 @@ Created business measures such as:
 -Total Flights
 -Average Flights per Customer
 -Average CLV
--Points Accumulated & Redeemed
+-Points Accumulated & Redeemed and more.
 
 I created business calculations (DAX measures) for customer counts, churn rate, total flights, CLV averages, points behavior, and more — preparing the model for meaningful dashboards.
 
+
+📁 Raw data: [Raw Data](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/blob/main/Raw%20Data)
+📁 Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`
+📁 SQL scripts: `/sql/airline_loyalty_analysis.sql`  
+📁 Database file: `airline_loyalty.db`
 📁 Power BI file: `/powerbi/Airline_Loyalty_Report.pbix`
 
 
@@ -134,15 +111,11 @@ The Customer Segmentation dashboard adds a deeper layer of intelligence by profi
 
 Together, both dashboards provide a 360° view of the loyalty program—combining operational metrics with customer-level insights. This empowers the airline to:
 
-Allocate resources based on real flight behaviour
-
-Personalise marketing for high-value segments
-
-Detect at-risk customers earlier
-
-Strengthen engagement strategies
-
-Improve long-term customer loyalty and revenue
+-Allocate resources based on real flight behaviour
+-Personalise marketing for high-value segments
+-Detect at-risk customers earlier
+-Strengthen engagement strategies
+-Improve long-term customer loyalty and revenue
 
 This project demonstrates the full data pipeline—cleaning, modelling, analysis, and visualization—resulting in a powerful decision-support tool that helps businesses improve both customer satisfaction and operational performance.
 
