@@ -1,4 +1,4 @@
-## 1. 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
+# 1. 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
 
 This project demonstrates a complete end-to-end analytics workflow designed to model a real business intelligence environment. Using **Python**, **SQL (SQLite)**, and **Power BI**, I transformed raw airline loyalty data into a structured analytical model and developed an interactive dashboard that highlights key business insights.
 
@@ -23,7 +23,7 @@ It reflects real-world expectations for **Data Analyst** and **BI Analyst** role
 
 
 
-## 2. 🧹 Data Cleaning, SQL Database Creation & Power BI Data Modeling
+# 2. 🧹 Data Cleaning, SQL Database Creation & Power BI Data Modeling
 
 This project followed a complete end-to-end data analysis workflow across Python, SQL, and Power BI.
 
