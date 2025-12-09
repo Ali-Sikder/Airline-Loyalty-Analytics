@@ -45,7 +45,7 @@ These metrics formed the foundation for an interactive dashboard that visualises
 
 ### Project Files  
 - Raw data: [Raw Data](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/e6ecb9615d40b5ef0485b0fbffce699dd82edd76/Raw%20Data)
-- Python Code: [`/notebooks/01_data_cleaning_and_sql_import.ipynb` ](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/d951034d30abf66bda3c9258d957e0a4776c1f50/Python)  
+- Python Code: [[`/notebooks/01_data_cleaning_and_sql_import.ipynb` ](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/d951034d30abf66bda3c9258d957e0a4776c1f50/Python) ](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/d951034d30abf66bda3c9258d957e0a4776c1f50/Python) 
 - SQL Database file: [`airline_loyalty.db`  ](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/e6ecb9615d40b5ef0485b0fbffce699dd82edd76/Database)
 - Power BI report: [`/powerbi/Airline_Loyalty_Report.pbix`](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/tree/e6ecb9615d40b5ef0485b0fbffce699dd82edd76/Power%20BI)
 
