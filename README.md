@@ -55,7 +55,7 @@ These metrics formed the foundation for an interactive dashboard that visualises
 
 # 3. Dashboard & Insights (Power BI)
 
-### 🔹 Page 1 — Flight Detail 
+### 🔹 Page 1 — Flight Operation 
 
 A fast, visual overview of flight performance and loyalty program activity.
 
@@ -77,7 +77,8 @@ Customer behaviour patterns:
 <brk>
 
 
-<img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
+<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/682b60f3-f06e-4e69-b941-7ab2cfd8ae55" />
+
 
 <brk>
 <brk>
