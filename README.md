@@ -56,8 +56,6 @@ These metrics formed the foundation for an interactive dashboard that visualises
 # 📈 3. Dashboard & Insights (Power BI)
 
 ### 🔹 Page 1 — Flight Detail 
-<img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
-
 
 A fast, visual overview of flight performance and loyalty program activity.
 
@@ -70,10 +68,13 @@ Program engagement: Total flights flown, points accumulated & redeemed
 Monthly trends: Flights and points activity by month
 
 Customer behaviour patterns:
--Avg flights per customer
--Avg distance per flight
--Flights by loyalty card type
--Flights by income group or customer status
+- Avg flights per customer
+- Avg distance per flight
+- Flights by loyalty card type
+- Flights by income group or customer status
+
+<img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
+
 
 ### Why This Dashboard Matters
 
@@ -84,13 +85,12 @@ Helps spot engagement drop-offs and churn risk
 Shows which loyalty tiers contribute the most flights
 
 Supports decisions around:
---Staffing & resource planning
---Flight scheduling
---Loyalty rewards optimization
---Customer engagement strategies
+- Staffing & resource planning
+- Flight scheduling
+- Loyalty rewards optimization
+- Customer engagement strategies
 
 ### 🔹 Page 2 — Customer Segmentation
-<img width="1090" height="611" alt="image" src="https://github.com/user-attachments/assets/a0a6b70e-30ef-47e3-aa77-b4d6b244cad3" />
 
 A deeper look into who the customers are and how different groups behave.
 
@@ -103,10 +103,14 @@ Customer value tiers: High/medium/low CLV segments
 Loyalty card distribution: Star, Nova, Aurora
 
 Membership behavior:
---Average CLV by enrolment type
---CLV by membership duration
---Customer count by lifetime value
---Points redemption rate by card type
+- Average CLV by enrolment type
+- CLV by membership duration
+- Customer count by lifetime value
+- Points redemption rate by card type
+
+<img width="1090" height="611" alt="image" src="https://github.com/user-attachments/assets/a0a6b70e-30ef-47e3-aa77-b4d6b244cad3" />
+
+
 
 ### Why This Dashboard Matters
 
@@ -117,10 +121,10 @@ Highlights which groups are more loyal or at risk
 Helps build targeted marketing & retention campaigns
 
 Supports decisions around:
---Loyalty benefits
---Customer retention strategies
---Personalized promotions
---Program redesign & tier optimization
+- Loyalty benefits
+- Customer retention strategies
+- Personalized promotions
+- Program redesign & tier optimization
 
 📁 Dashboard screenshots: `/docs/`
 
