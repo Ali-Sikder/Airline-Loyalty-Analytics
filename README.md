@@ -26,45 +26,31 @@ It demonstrates practical experience with modern data tools and mirrors the expe
 
 
 
-# 🧹 1. Data Cleaning, Database creation and Data Modeling & DAX 
+## 🧹 Data Cleaning, SQL Database Creation & Power BI Data Modeling
 
-Firstly, I started with raw Excel files containing customer details, flight activity, and a calendar table.
-In Python (Jupyter Notebook), I:
+This project followed a complete end-to-end data analysis workflow across Python, SQL, and Power BI.
 
--Cleaned the datasets
--Fixed missing values
--Standardised columns
+I began by cleaning the raw Excel datasets (customers, flights, and calendar) using **Python (Pandas in Jupyter Notebook)**. This included handling missing values, standardising columns, and engineering new fields such as **Customer Status**, **Membership Duration**, **Salary Groups**, **CLV Segments**, and other useful analytical attributes.
 
-Created new useful fields such as Customer Status, Membership Duration, Salary Groups, CLV Segments and more. 
+To make the project more structured and realistic, all cleaned datasets were loaded into a **SQLite relational database**. I designed the tables according to relational principles, created keys, and ran **SQL queries** to validate data quality and explore patterns before building the BI model.
 
-Secondly, To make the project more realistic and scalable. I loaded all cleaned datasets into a **SQLite relational database**.  
+Inside **Power BI**, I connected directly to the SQLite database and created a robust **data model** linking customers, flights, and calendar tables. I then built key **DAX measures** used for business insights, including:
 
--Structured the tables as a relational model
--Ran SQL queries to validate the data and explore patterns
+- Customer Count  
+- Churn Rate  
+- Total Flights  
+- Average Flights per Customer  
+- Average CLV  
+- Points Accumulated & Redeemed  
 
-This allowed me to use SQL for exploration, validation, and structured querying before connecting to Power BI.
+These metrics formed the foundation for an interactive dashboard that visualises customer behaviour, loyalty performance, and business trends.
 
-Finally, Inside Power BI, I Connected to the SQL database
-
-**Built a data model (relationships between customer, flights, and calendar)**
-
-Created business measures such as:
-
--Customer Count
--Churn Rate
--Total Flights
--Average Flights per Customer
--Average CLV
--Points Accumulated & Redeemed and more.
-
-I created business calculations (DAX measures) for customer counts, churn rate, total flights, CLV averages, points behavior, and more — preparing the model for meaningful dashboards.
-
-
-📁 Raw data: [Raw Data](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/blob/main/Raw%20Data)
-📁 Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`
-📁 SQL scripts: `/sql/airline_loyalty_analysis.sql`  
-📁 Database file: `airline_loyalty.db`
-📁 Power BI file: `/powerbi/Airline_Loyalty_Report.pbix`
+### 📁 Project Files  
+- Raw data: [Raw Data Folder](https://github.com/Ali-Sikder/Airline-Loyalty-Analytics/blob/main/Raw%20Data)  
+- Notebook: `/notebooks/01_data_cleaning_and_sql_import.ipynb`  
+- SQL scripts: `/sql/airline_loyalty_analysis.sql`  
+- Database file: `airline_loyalty.db`  
+- Power BI report: `/powerbi/Airline_Loyalty_Report.pbix`
 
 
 
