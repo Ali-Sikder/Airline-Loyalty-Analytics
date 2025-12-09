@@ -1,26 +1,23 @@
 ## 🚀 Portfolio Summary – Airline Loyalty Analytics Project ✨
 
-This project presents a complete end-to-end data analytics workflow designed to replicate a real business intelligence environment. Using a combination of Python, SQL, and Power BI, I transformed raw airline loyalty data into a structured analytics model and delivered a fully interactive dashboard with meaningful business insights.
+This project demonstrates a complete end-to-end analytics workflow designed to model a real business intelligence environment. Using **Python**, **SQL (SQLite)**, and **Power BI**, I transformed raw airline loyalty data into a structured analytical model and developed an interactive dashboard that highlights key business insights.
 
-The process began by importing and cleaning the raw customer, flight, and calendar datasets in Python. I handled missing values, standardized formats, created new engineered features (such as customer status, membership duration, salary groups, CLV segments, and derived date fields), and prepared the data for analysis. Cleaned datasets were then loaded into a SQLite relational database, ensuring stronger data integrity, improved performance, and a scalable structure suitable for analytical querying.
+I began by importing and cleaning the raw customer, flight, and calendar datasets in **Python (Pandas)**. This included handling missing values, standardising formats, and engineering new features such as **Customer Status**, **Membership Duration**, **Salary Groups**, **CLV Segments**, and various date-based classifications.  
+Once cleaned, the datasets were loaded into a **SQLite relational database**, providing stronger data integrity and a scalable foundation for analytical queries.
 
-With SQL, I explored the data, validated relationships, and confirmed the accuracy of flight activity, customer profiles, and loyalty behaviors before integrating the database into Power BI. Inside Power BI, I built a star-schema model, created analytical measures using DAX, established table relationships, and performed additional modeling and transformations to support more advanced reporting.
+Using **SQL**, I explored customer behaviour, validated relationships between tables, and ensured the accuracy of flight activity and loyalty patterns. The database was then connected to **Power BI**, where I built a star-schema model, defined analytical measures using **DAX**, and created relationships to support deeper reporting and trend analysis.
 
-Finally, I designed a multi-page interactive dashboard focusing on:
+The final dashboard focused on several key analytical areas:
 
-Executive performance KPIs
+- **Executive KPI performance**  
+- **Customer segmentation** (demographic, behavioural, and value-based)  
+- **Churn and retention analysis**  
+- **Loyalty engagement and points behaviour**  
+- **Membership duration and CLV patterns**  
 
-Customer segmentation (demographic, behavioral, value-based)
+This project highlights my ability to work across the full data analytics spectrum—from data cleaning and feature engineering to database design, SQL querying, DAX development, and dashboard storytelling.  
+It reflects real-world expectations for **Data Analyst** and **BI Analyst** roles and demonstrates my capability to deliver meaningful insights that support strategic business decisions.
 
-Churn and retention insights
-
-Loyalty engagement and points behavior
-
-Membership duration and CLV patterns
-
-This project showcases my ability to work across the full analytics stack—data cleaning, feature engineering, database modeling, SQL querying, DAX development, and dashboard design—to produce insights that support strategic business decisions.
-
-It demonstrates practical experience with modern data tools and mirrors the expectations of real-world data analyst and BI analyst roles.
 
 
 
