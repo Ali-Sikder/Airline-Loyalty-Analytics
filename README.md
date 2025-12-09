@@ -73,7 +73,10 @@ Customer behaviour patterns:
 - Flights by loyalty card type
 - Flights by income group or customer status
 
+
+
 <img width="1094" height="613" alt="image" src="https://github.com/user-attachments/assets/4d6a741d-10c3-4fd6-a56f-fe9eac87e5f0" />
+
 
 
 ### Why This Dashboard Matters
@@ -108,6 +111,8 @@ Membership behavior:
 - Customer count by lifetime value
 - Points redemption rate by card type
 
+
+
 <img width="1090" height="611" alt="image" src="https://github.com/user-attachments/assets/a0a6b70e-30ef-47e3-aa77-b4d6b244cad3" />
 
 
@@ -137,22 +142,45 @@ Supports decisions around:
 
 
 
-# 🎯 4. Key Business Insights and conclusion
-This project successfully transformed a raw airline loyalty dataset into a complete analytical ecosystem using Python, SQL, and Power BI. The two dashboards—Flight Operations and Customer Segmentation—work together to give the airline a clear, data-driven understanding of both customer behaviour and operational performance.
 
-The Flight Details dashboard highlights monthly flight activity, points accumulation patterns, customer status distribution, and overall loyalty program performance. These insights help operations and marketing teams identify peak travel periods, understand program engagement, and measure key performance indicators such as churn rate, total flights, and points redeemed.
+# 🎯 Key Business Insights & Conclusion
 
-The Customer Segmentation dashboard adds a deeper layer of intelligence by profiling customers based on value, demographics, loyalty tiers, education, membership duration, and enrolment type. These insights reveal which customer groups generate the most revenue, which segments are at higher risk of churn, and how different types of members behave across the loyalty lifecycle.
+This project transformed a raw airline loyalty dataset into a complete analytical ecosystem using **Python**, **SQL**, and **Power BI**. The two main dashboards—**Flight Operations** and **Customer Segmentation**—work together to give the airline a comprehensive, data-driven view of customer behaviour and operational performance.
 
-Together, both dashboards provide a 360° view of the loyalty program—combining operational metrics with customer-level insights. This empowers the airline to:
+### ✈️ Flight Operations Insights  
+The Flight Details dashboard uncovers trends in monthly flight activity, points accumulation, loyalty status distribution, and overall program performance.  
+It enables the business to understand:
 
--Allocate resources based on real flight behaviour
--Personalise marketing for high-value segments
--Detect at-risk customers earlier
--Strengthen engagement strategies
--Improve long-term customer loyalty and revenue
+- Seasonal and monthly patterns in flight activity  
+- How customers earn and redeem loyalty points  
+- Engagement levels of different loyalty tiers  
+- Key performance indicators such as **churn rate**, **total flights**, and **points redeemed**
 
-This project demonstrates the full data pipeline—cleaning, modelling, analysis, and visualization—resulting in a powerful decision-support tool that helps businesses improve both customer satisfaction and operational performance.
+These insights support operational planning, marketing decisions, and loyalty strategy optimisation.
+
+### 👥 Customer Segmentation Insights  
+The Customer Segmentation dashboard provides deeper intelligence by profiling customers based on:
+
+- Value and spending behaviour  
+- Demographics and education  
+- Loyalty tier and membership age  
+- Enrolment type and activity patterns  
+
+This helps identify high-value segments, detect at-risk customers, and understand which groups contribute most to long-term loyalty and revenue.
+
+### 🔍 Combined Impact  
+Together, both dashboards offer a **360° view of the loyalty program**, combining operational metrics with customer-level insights.  
+This empowers the airline to:
+
+- Allocate resources based on real flight behaviour  
+- Personalise marketing for high-value segments  
+- Predict churn and intervene earlier  
+- Strengthen engagement and retention strategies  
+- Improve overall customer satisfaction and revenue performance  
+
+### 📝 Final Summary  
+This project demonstrates the full analytics pipeline—**data cleaning → database modelling → SQL analysis → Power BI reporting**—resulting in a powerful decision-support tool.  
+It reflects real-world expectations for **Data Analyst** and **BI Analyst** roles by translating raw data into clear, actionable business insights.
 
 
 
