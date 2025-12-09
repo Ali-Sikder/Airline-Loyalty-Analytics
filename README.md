@@ -55,9 +55,6 @@ These metrics formed the foundation for an interactive dashboard that visualises
 
 # 3. Dashboard & Insights (Power BI)
 
-Please find the interactive dashboard by clicling on this link
-https://app.powerbi.com/view?r=eyJrIjoiYjQxODljOGQtOTk3Ny00MzUxLWFlZjctZDNiYWZhZTZjNjkwIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9
-
 
 ### 🔹 Page 1 — Flight Operation 
 
@@ -141,15 +138,10 @@ Supports decisions around:
 - Personalized promotions
 - Program redesign & tier optimization
 
- Dashboard screenshots: `/docs/`
 
+### Please see interactive dashboard by clicling on the link provided
 
-
-
-
-
-
-
+- https://app.powerbi.com/view?r=eyJrIjoiYjQxODljOGQtOTk3Ny00MzUxLWFlZjctZDNiYWZhZTZjNjkwIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9
 
 
 
