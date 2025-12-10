@@ -78,7 +78,8 @@ Customer behaviour patterns:
 <brk>
 
 
-<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/682b60f3-f06e-4e69-b941-7ab2cfd8ae55" />
+<img width="1067" height="578" alt="Untitled" src="https://github.com/user-attachments/assets/51bc6e54-cd07-4769-87c1-b8099238aa0f" />
+
 
 
 <brk>
